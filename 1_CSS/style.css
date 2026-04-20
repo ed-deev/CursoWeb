@@ -1,0 +1,91 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+body{
+    background-color: #0b3173;
+}
+/*div{
+    border: 5px solid rgb(109, 84, 84);
+    padding: 10px;
+    margin: 5px;
+}*/
+#body{
+    background-color: #ccc;
+    margin: 10px;
+    
+}
+#titulo-principal{
+    padding: 5px;
+    margin: 10px;
+}
+.titulo-principal{
+    background-color: #0b3173;
+    padding: 10px;
+    margin: 5px;
+}
+.titulo-principal h1{
+    color: #a35858;
+    text-align: center;
+    padding: 10px;
+}
+.titulo-principal h2{
+    color: #ccc;
+}
+.titulo-principal p{
+    color: #ccc;
+}
+#titulo-segundario{
+    padding: 5px;
+    margin: 10px;
+}
+#titulo-segundario h2{
+    text-align: center;
+    color: #a35858;
+    padding: 10px;
+    margin: 5px;
+    background-color: #0b3173;
+}
+.italia{
+    background-color: #ab9203;
+    padding: 10px;
+    margin: 5px;
+    
+}
+.italia h3{
+    text-align: center;
+     color: #3f595d;
+}
+.espanha{
+    background-color: #3f595d;
+    padding: 10px;
+    margin: 5px;
+}
+.espanha h3{
+    color: red;
+    text-align: center;
+}
+.alemanha{
+    background-color: #6a04f1;
+    padding: 10px;
+    margin: 5px;
+}
+.alemanha h3{
+    text-align: center;
+    color: #a35858;
+}
+#feedback{
+    padding: 5px;
+    margin: 10px;
+}
+.feedback{
+    background-color: #ab9203;
+    padding: 10px;
+    margin: 5px;
+}
+.feedback h2{
+    text-align: center;
+}
+
+
+

@@ -1,0 +1,56 @@
+SINTAXR
+
+seletor{propriedade: valor;}
+h1{color: red;}
+
+
+------------------------------------------
+
+COMO INCLUIR
+
+inline --> <p style="color: red;"></p>
+
+Interno --> <style></style>
+
+Externo --> <link rel="stylesheet" href="">
+
+
+------------------------------------------
+
+
+class --> . --> pode usar varias paginas
+
+
+------------------------------------------
+
+id --> # --> Identificador unico e utiliza uma vez por pagina
+
+
+
+------------------------------------------
+
+FONTS:
+
+font-family -- formatar familia da fonte
+font-size -- tamanho da fonte
+font-style -- modelo da font
+font-weight -- peso da fonte
+font-variant: small-caps; --> Todo o texto a primeira letra será maiusculo
+
+
+------------------------------------------
+
+TEXT:
+
+text-elign -- posição do texto
+text-decoration -- Remover enderline
+text-indent -- Definir o espaço para direita do texto
+text-transform -- colocar maiusculo e minusculo
+
+------------------------------------------
+
+
+
+
+
+
