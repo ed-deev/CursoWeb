@@ -49,6 +49,15 @@ text-transform -- colocar maiusculo e minusculo
 
 ------------------------------------------
 
+IMAGEM NO BACKGROUD 
+
+background-image: url(../1_CSS/img/bridge.jpg);
+
+
+------------------------------------------
+
+
+
 
 
 

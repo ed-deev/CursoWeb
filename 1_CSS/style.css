@@ -3,18 +3,15 @@
     font-style: normal;
 }
 body{
+    margin: 10px;
     background-color: #0b3173;
+    background-image: url(../1_CSS/img/bridge.jpg);
 }
 /*div{
     border: 5px solid rgb(109, 84, 84);
     padding: 10px;
     margin: 5px;
 }*/
-#body{
-    background-color: #ccc;
-    margin: 10px;
-    
-}
 #titulo-principal{
     padding: 5px;
     margin: 10px;
