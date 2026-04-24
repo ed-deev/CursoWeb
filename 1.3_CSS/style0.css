@@ -1,0 +1,36 @@
+/*LARGURA E ALTURA*/
+.height-width{
+    height: 200px; /*ALTURA*/
+    width: 100px; /*LARGURA*/
+    background-color: red;
+}
+.height-width-2{
+    height: 200px;
+    background-color: black;
+}
+
+/*PADDING*/
+.without-padding, .padding{
+    background-color: #111;
+    color: #fff;
+}
+.padding{
+    background-color: #634;
+    padding: 20px;
+}
+
+/*Padding - width*/
+
+.without-border-box{
+    background-color: #444;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+}
+.border-box{
+    background-color: #666;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+}

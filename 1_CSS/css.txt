@@ -56,6 +56,19 @@ background-image: url(../1_CSS/img/bridge.jpg);
 
 ------------------------------------------
 
+BOX MODEL
+
+LARGURA E ALTURA
+
+height: 200px; /*ALTURA*/
+width: 100px; /*LARGURA*/
+
+PADDING
+
+padding -> espaçamento
+
+pad
+
 
 
 

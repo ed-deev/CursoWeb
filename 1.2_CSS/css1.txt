@@ -1,2 +1,12 @@
 CENTRALIZANDO A IMAGEM DE BACKGROUND
 
+.not-centered-bg, .centered-bg{
+    height: 400px;
+    width: 400px;
+    background-image: url(../1_CSS/img/bridge.jpg);
+}
+
+.centered-bg{
+    background-position: center;
+    background-position: cover; 
+}
