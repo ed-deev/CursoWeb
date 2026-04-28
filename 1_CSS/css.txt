@@ -67,7 +67,14 @@ PADDING
 
 padding -> espaçamento
 
-pad
+-------------------------------------------
+
+ESPAÇAMENTO ENTRE AS LETRAS
+
+.spacing{
+    letter-spacing: 5px;
+}
+
 
 
 
