@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ccc;
+}
+
+.container {
+  max-width: 1100px;
+  background-color: #fff;
+  position: relative;
+  margin: 50px auto;
+  padding: 20px 50px;
+}
+
+.header {
+    border-bottom: 1px solid #ccc;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.header p {
+    text-align: center;
+}
+
+.imagem-1 {
+    text-align: center;
+}
+
+.biografia {
+    border-bottom: 1px solid #ccc;
+}
+
+.biografia h1 {
+    padding: 10px;
+}
+
+.biografia p {
+    padding: 10px;
+}
+
+.citacao {
+    background-color: #ccc;
+    margin: 25px;
+    padding: 30px;
+}
+
+.citacao h2 {
+    font-size: 30px;
+}
+.curiosidade{
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+.citacao-1{
+    background-color: #ccc;
+    margin: 25px;
+    padding: 30px;
+}
+.citacao-1 h2{
+    font-size: 30px;
+}
+
+.imagem-2 {
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
